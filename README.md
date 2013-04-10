@@ -15,6 +15,6 @@ Our site is hosted at http://www.go4pro.org.
 
 Last but not the least, "g4p" stands for:
 
-**Go for Programming, Go for Professionals. **
+** Go for Programming, Go for Professionals.  **
 
 
